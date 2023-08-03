@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonutAPI", "DonutAPI\DonutAPI.csproj", "{CD84192B-C7E8-4360-AB90-E2DF4A769217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD84192B-C7E8-4360-AB90-E2DF4A769217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD84192B-C7E8-4360-AB90-E2DF4A769217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD84192B-C7E8-4360-AB90-E2DF4A769217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD84192B-C7E8-4360-AB90-E2DF4A769217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8998FC16-1A0B-44F5-958E-7DA66F77495C}
+	EndGlobalSection
+EndGlobal
